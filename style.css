@@ -1,0 +1,8 @@
+.brandgradiant {
+    background: #157ECF;
+    background: linear-gradient(to right, #157ECF 0%, #29CF3F 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
